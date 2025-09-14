@@ -1,0 +1,6 @@
+Config service
+VPRN 200
+interface fast ethernet 0/0
+ip address 192.168.1.1/24
+no shutdown
+
